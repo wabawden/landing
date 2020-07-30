@@ -1,0 +1,17 @@
+.btn-learn {
+    display: inline-block;
+    background-color: #E05263;
+    color: white;
+    box-shadow: 100px, blue;
+    font-weight: lighter;
+    border-radius: 2px;
+    padding: 16px 24px;
+    transition: 0.9s;
+    margin-top: 12px;
+  }
+  
+  .btn-learn:hover {
+      background: linear-gradient(#E05263, #e0838e);
+      background-color: #e0838e;
+      transition: 0.9s;
+  }

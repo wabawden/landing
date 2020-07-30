@@ -1,0 +1,26 @@
+.footer {
+    background-color: #001933;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.footer ul {
+    padding: 0;
+}
+
+.footer li {
+    display: inline-block;
+    padding: 15px;
+    list-style: none;
+    margin: 0;
+}
+
+.footer li a {
+    color: whitesmoke;
+    font-size: 36px;
+    text-decoration: none;
+}
+
+.footer li a:hover {
+    color: rgb(168, 211, 12);
+}
